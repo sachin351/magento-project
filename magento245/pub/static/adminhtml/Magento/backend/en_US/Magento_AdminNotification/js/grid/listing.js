@@ -1,0 +1,1 @@
+/var/www/html/magento-project/magento245/vendor/magento/module-admin-notification/view/adminhtml/web/js/grid/listing.js

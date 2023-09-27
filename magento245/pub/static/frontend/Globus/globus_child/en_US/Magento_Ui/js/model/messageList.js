@@ -1,0 +1,1 @@
+/var/www/html/magento-project/magento245/vendor/magento/module-ui/view/frontend/web/js/model/messageList.js

@@ -1,0 +1,1 @@
+/var/www/html/magento-project/magento245/vendor/magento/module-captcha/view/frontend/web/js/model/captcha.js

@@ -1,0 +1,1 @@
+/var/www/html/magento-project/magento245/lib/web/js-cookie/js.cookie.js
