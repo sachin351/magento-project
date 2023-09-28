@@ -1,6 +1,6 @@
-a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1695792990;s:6:"expire";i:1695796590;s:4:"tags";s:33:"09c_BLOCK_HTML,09c_CAT_C,09c_MAGE";}
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1695874919;s:6:"expire";i:1695878519;s:4:"tags";s:81:"09c_BLOCK_HTML,09c_CAT_C,09c_CAT_C_3,09c_CAT_C_4,09c_CAT_C_5,09c_CAT_C_6,09c_MAGE";}
 
 <nav class="navigation" data-action="navigation">
     <ul data-mage-init='{"menu":{"responsive":true, "expanded":true, "position":{"my":"left top","at":"left bottom"}}}'>
-                    </ul>
+        <li  class="level0 nav-1 category-item first level-top"><a href="http://custom.magento245.com/index.php/western-wear.html"  class="level-top" ><span>Western Wear</span></a></li><li  class="level0 nav-2 category-item level-top"><a href="http://custom.magento245.com/index.php/indian-wear.html"  class="level-top" ><span>Indian Wear</span></a></li><li  class="level0 nav-3 category-item level-top"><a href="http://custom.magento245.com/index.php/party-wear.html"  class="level-top" ><span>Party Wear</span></a></li><li  class="level0 nav-4 category-item last level-top"><a href="http://custom.magento245.com/index.php/accessories.html"  class="level-top" ><span>Accessories</span></a></li>            </ul>
 </nav>

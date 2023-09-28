@@ -1,0 +1,1070 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1695839494;s:6:"expire";i:1695925894;s:4:"tags";s:179:"09c_CAT_P,09c_BLOCK_HTML,09c_CAT_P_11,09c_CAT_P_10,09c_CAT_P_9,09c_CAT_P_8,09c_CAT_P_7,09c_CAT_P_6,09c_CAT_P_5,09c_CAT_P_4,09c_CAT_P_3,09c_CAT_P_2,09c_CAT_P_1,09c_CAT_C_4,09c_MAGE";}
+        <ol class="product-items widget-product-carousel">
+                            <li class="product-item">            <div class="product-item-info">
+                <a href="http://custom.magento245.com/index.php/globus-women-10.html" class="product-item-photo">
+                    <span class="product-image-container product-image-container-11">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://custom.magento245.com/media/catalog/product/cache/7ddf3908877fd7ce716816090f3ca2d3/b/r/brand-4_1_5.jpg"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="Globus&#x20;Women"/></span>
+</span>
+<style>.product-image-container-11 {
+    width: 240px;
+}
+.product-image-container-11 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-11");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "240px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-11  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                </a>
+                <div class="product-item-details">
+                    <strong class="product-item-name">
+                        <a title="Globus Women"
+                           href="http://custom.magento245.com/index.php/globus-women-10.html"
+                           class="product-item-link">
+                            Globus Women                        </a>
+                    </strong>
+                                                                
+                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="11" data-price-box="product-id-11">
+    <span class="special-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Special Price</span>
+        <span  id="old-price-11-widget-product-carousel"                data-price-amount="2299"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$2,299.00</span></span>
+        </span>
+    </span>
+    <span class="old-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Regular Price</span>
+        <span  id="old-price-11-widget-product-carousel"                data-price-amount="2899"
+        data-price-type="oldPrice"
+        class="price-wrapper "
+    ><span class="price">$2,899.00</span></span>
+        </span>
+    </span>
+
+</div>
+                    
+                                            <div class="product-item-inner">
+                            <div class="product-item-actions">
+                                                                    <div class="actions-primary">
+                                                                                                                                <form data-role="tocart-form" data-product-sku="Globus Women-10" action="http://custom.magento245.com/index.php/checkout/cart/add/uenc/aHR0cDovL2N1c3RvbS5tYWdlbnRvMjQ1LmNvbS8%2C/product/11/" method="post">
+                                                <input type="hidden" name="product" value="11">
+                                                <input type="hidden" name="uenc" value="aHR0cDovL2N1c3RvbS5tYWdlbnRvMjQ1LmNvbS9pbmRleC5waHAvY2hlY2tvdXQvY2FydC9hZGQvdWVuYy9hSFIwY0RvdkwyTjFjM1J2YlM1dFlXZGxiblJ2TWpRMUxtTnZiUzglMkMvcHJvZHVjdC8xMS8,">
+                                                <input name="form_key" type="hidden" value="bNJc1UTvzDdsrfLr" />                                                <button type="submit"
+                                                        title="Add to Cart"
+                                                        class="action tocart primary">
+                                                    <span>Add to Cart</span>
+                                                </button>
+                                            </form>
+                                            <script type="text/x-magento-init">
+                                            {
+                                                "[data-role=tocart-form], .form.map.checkout": {
+                                                    "catalogAddToCart": {
+                                                        "product_sku": "Globus\u0020Women\u002D10"
+                                                    }
+                                                }
+                                            }
+                                            </script>
+                                                                            </div>
+                                                                                                    <div class="actions-secondary" data-role="add-to-links">
+                                                                                    <a href="#"
+                                               data-post='{"action":"http:\/\/custom.magento245.com\/index.php\/wishlist\/index\/add\/","data":{"product":11,"uenc":"aHR0cDovL2N1c3RvbS5tYWdlbnRvMjQ1LmNvbS8,"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                <span>Add to Wish List</span>
+                                            </a>
+                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/custom.magento245.com\/index.php\/catalog\/product_compare\/add\/","data":{"product":"11","uenc":"aHR0cDovL2N1c3RvbS5tYWdlbnRvMjQ1LmNvbS8,"}}' title="Add&#x20;to&#x20;Compare">
+                                                <span>Add to Compare</span>
+                                            </a>
+                                                                            </div>
+                                                            </div>
+                        </div>
+                                    </div>
+            </div>
+                                </li><li class="product-item">            <div class="product-item-info">
+                <a href="http://custom.magento245.com/index.php/globus-women-9.html" class="product-item-photo">
+                    <span class="product-image-container product-image-container-10">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://custom.magento245.com/media/catalog/product/cache/7ddf3908877fd7ce716816090f3ca2d3/b/r/brand-4_1_4.jpg"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="Globus&#x20;Women"/></span>
+</span>
+<style>.product-image-container-10 {
+    width: 240px;
+}
+.product-image-container-10 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-10");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "240px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-10  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                </a>
+                <div class="product-item-details">
+                    <strong class="product-item-name">
+                        <a title="Globus Women"
+                           href="http://custom.magento245.com/index.php/globus-women-9.html"
+                           class="product-item-link">
+                            Globus Women                        </a>
+                    </strong>
+                                                                
+                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="10" data-price-box="product-id-10">
+    <span class="special-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Special Price</span>
+        <span  id="old-price-10-widget-product-carousel"                data-price-amount="2299"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$2,299.00</span></span>
+        </span>
+    </span>
+    <span class="old-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Regular Price</span>
+        <span  id="old-price-10-widget-product-carousel"                data-price-amount="2899"
+        data-price-type="oldPrice"
+        class="price-wrapper "
+    ><span class="price">$2,899.00</span></span>
+        </span>
+    </span>
+
+</div>
+                    
+                                            <div class="product-item-inner">
+                            <div class="product-item-actions">
+                                                                    <div class="actions-primary">
+                                                                                                                                <form data-role="tocart-form" data-product-sku="Globus Women-9" action="http://custom.magento245.com/index.php/checkout/cart/add/uenc/aHR0cDovL2N1c3RvbS5tYWdlbnRvMjQ1LmNvbS8%2C/product/10/" method="post">
+                                                <input type="hidden" name="product" value="10">
+                                                <input type="hidden" name="uenc" value="aHR0cDovL2N1c3RvbS5tYWdlbnRvMjQ1LmNvbS9pbmRleC5waHAvY2hlY2tvdXQvY2FydC9hZGQvdWVuYy9hSFIwY0RvdkwyTjFjM1J2YlM1dFlXZGxiblJ2TWpRMUxtTnZiUzglMkMvcHJvZHVjdC8xMC8,">
+                                                <input name="form_key" type="hidden" value="bNJc1UTvzDdsrfLr" />                                                <button type="submit"
+                                                        title="Add to Cart"
+                                                        class="action tocart primary">
+                                                    <span>Add to Cart</span>
+                                                </button>
+                                            </form>
+                                            <script type="text/x-magento-init">
+                                            {
+                                                "[data-role=tocart-form], .form.map.checkout": {
+                                                    "catalogAddToCart": {
+                                                        "product_sku": "Globus\u0020Women\u002D9"
+                                                    }
+                                                }
+                                            }
+                                            </script>
+                                                                            </div>
+                                                                                                    <div class="actions-secondary" data-role="add-to-links">
+                                                                                    <a href="#"
+                                               data-post='{"action":"http:\/\/custom.magento245.com\/index.php\/wishlist\/index\/add\/","data":{"product":10,"uenc":"aHR0cDovL2N1c3RvbS5tYWdlbnRvMjQ1LmNvbS8,"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                <span>Add to Wish List</span>
+                                            </a>
+                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/custom.magento245.com\/index.php\/catalog\/product_compare\/add\/","data":{"product":"10","uenc":"aHR0cDovL2N1c3RvbS5tYWdlbnRvMjQ1LmNvbS8,"}}' title="Add&#x20;to&#x20;Compare">
+                                                <span>Add to Compare</span>
+                                            </a>
+                                                                            </div>
+                                                            </div>
+                        </div>
+                                    </div>
+            </div>
+                                </li><li class="product-item">            <div class="product-item-info">
+                <a href="http://custom.magento245.com/index.php/globus-women-8.html" class="product-item-photo">
+                    <span class="product-image-container product-image-container-9">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://custom.magento245.com/media/catalog/product/cache/7ddf3908877fd7ce716816090f3ca2d3/b/r/brand-4_1_3.jpg"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="Globus&#x20;Women"/></span>
+</span>
+<style>.product-image-container-9 {
+    width: 240px;
+}
+.product-image-container-9 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-9");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "240px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-9  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                </a>
+                <div class="product-item-details">
+                    <strong class="product-item-name">
+                        <a title="Globus Women"
+                           href="http://custom.magento245.com/index.php/globus-women-8.html"
+                           class="product-item-link">
+                            Globus Women                        </a>
+                    </strong>
+                                                                
+                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="9" data-price-box="product-id-9">
+    <span class="special-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Special Price</span>
+        <span  id="old-price-9-widget-product-carousel"                data-price-amount="2299"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$2,299.00</span></span>
+        </span>
+    </span>
+    <span class="old-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Regular Price</span>
+        <span  id="old-price-9-widget-product-carousel"                data-price-amount="2899"
+        data-price-type="oldPrice"
+        class="price-wrapper "
+    ><span class="price">$2,899.00</span></span>
+        </span>
+    </span>
+
+</div>
+                    
+                                            <div class="product-item-inner">
+                            <div class="product-item-actions">
+                                                                    <div class="actions-primary">
+                                                                                                                                <form data-role="tocart-form" data-product-sku="Globus Women-8" action="http://custom.magento245.com/index.php/checkout/cart/add/uenc/aHR0cDovL2N1c3RvbS5tYWdlbnRvMjQ1LmNvbS8%2C/product/9/" method="post">
+                                                <input type="hidden" name="product" value="9">
+                                                <input type="hidden" name="uenc" value="aHR0cDovL2N1c3RvbS5tYWdlbnRvMjQ1LmNvbS9pbmRleC5waHAvY2hlY2tvdXQvY2FydC9hZGQvdWVuYy9hSFIwY0RvdkwyTjFjM1J2YlM1dFlXZGxiblJ2TWpRMUxtTnZiUzglMkMvcHJvZHVjdC85Lw,,">
+                                                <input name="form_key" type="hidden" value="bNJc1UTvzDdsrfLr" />                                                <button type="submit"
+                                                        title="Add to Cart"
+                                                        class="action tocart primary">
+                                                    <span>Add to Cart</span>
+                                                </button>
+                                            </form>
+                                            <script type="text/x-magento-init">
+                                            {
+                                                "[data-role=tocart-form], .form.map.checkout": {
+                                                    "catalogAddToCart": {
+                                                        "product_sku": "Globus\u0020Women\u002D8"
+                                                    }
+                                                }
+                                            }
+                                            </script>
+                                                                            </div>
+                                                                                                    <div class="actions-secondary" data-role="add-to-links">
+                                                                                    <a href="#"
+                                               data-post='{"action":"http:\/\/custom.magento245.com\/index.php\/wishlist\/index\/add\/","data":{"product":9,"uenc":"aHR0cDovL2N1c3RvbS5tYWdlbnRvMjQ1LmNvbS8,"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                <span>Add to Wish List</span>
+                                            </a>
+                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/custom.magento245.com\/index.php\/catalog\/product_compare\/add\/","data":{"product":"9","uenc":"aHR0cDovL2N1c3RvbS5tYWdlbnRvMjQ1LmNvbS8,"}}' title="Add&#x20;to&#x20;Compare">
+                                                <span>Add to Compare</span>
+                                            </a>
+                                                                            </div>
+                                                            </div>
+                        </div>
+                                    </div>
+            </div>
+                                </li><li class="product-item">            <div class="product-item-info">
+                <a href="http://custom.magento245.com/index.php/globus-women-7.html" class="product-item-photo">
+                    <span class="product-image-container product-image-container-8">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://custom.magento245.com/media/catalog/product/cache/7ddf3908877fd7ce716816090f3ca2d3/b/r/brand-4_1_2.jpg"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="Globus&#x20;Women"/></span>
+</span>
+<style>.product-image-container-8 {
+    width: 240px;
+}
+.product-image-container-8 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-8");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "240px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-8  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                </a>
+                <div class="product-item-details">
+                    <strong class="product-item-name">
+                        <a title="Globus Women"
+                           href="http://custom.magento245.com/index.php/globus-women-7.html"
+                           class="product-item-link">
+                            Globus Women                        </a>
+                    </strong>
+                                                                
+                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="8" data-price-box="product-id-8">
+    <span class="special-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Special Price</span>
+        <span  id="old-price-8-widget-product-carousel"                data-price-amount="2299"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$2,299.00</span></span>
+        </span>
+    </span>
+    <span class="old-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Regular Price</span>
+        <span  id="old-price-8-widget-product-carousel"                data-price-amount="2899"
+        data-price-type="oldPrice"
+        class="price-wrapper "
+    ><span class="price">$2,899.00</span></span>
+        </span>
+    </span>
+
+</div>
+                    
+                                            <div class="product-item-inner">
+                            <div class="product-item-actions">
+                                                                    <div class="actions-primary">
+                                                                                                                                <form data-role="tocart-form" data-product-sku="Globus Women-7" action="http://custom.magento245.com/index.php/checkout/cart/add/uenc/aHR0cDovL2N1c3RvbS5tYWdlbnRvMjQ1LmNvbS8%2C/product/8/" method="post">
+                                                <input type="hidden" name="product" value="8">
+                                                <input type="hidden" name="uenc" value="aHR0cDovL2N1c3RvbS5tYWdlbnRvMjQ1LmNvbS9pbmRleC5waHAvY2hlY2tvdXQvY2FydC9hZGQvdWVuYy9hSFIwY0RvdkwyTjFjM1J2YlM1dFlXZGxiblJ2TWpRMUxtTnZiUzglMkMvcHJvZHVjdC84Lw,,">
+                                                <input name="form_key" type="hidden" value="bNJc1UTvzDdsrfLr" />                                                <button type="submit"
+                                                        title="Add to Cart"
+                                                        class="action tocart primary">
+                                                    <span>Add to Cart</span>
+                                                </button>
+                                            </form>
+                                            <script type="text/x-magento-init">
+                                            {
+                                                "[data-role=tocart-form], .form.map.checkout": {
+                                                    "catalogAddToCart": {
+                                                        "product_sku": "Globus\u0020Women\u002D7"
+                                                    }
+                                                }
+                                            }
+                                            </script>
+                                                                            </div>
+                                                                                                    <div class="actions-secondary" data-role="add-to-links">
+                                                                                    <a href="#"
+                                               data-post='{"action":"http:\/\/custom.magento245.com\/index.php\/wishlist\/index\/add\/","data":{"product":8,"uenc":"aHR0cDovL2N1c3RvbS5tYWdlbnRvMjQ1LmNvbS8,"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                <span>Add to Wish List</span>
+                                            </a>
+                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/custom.magento245.com\/index.php\/catalog\/product_compare\/add\/","data":{"product":"8","uenc":"aHR0cDovL2N1c3RvbS5tYWdlbnRvMjQ1LmNvbS8,"}}' title="Add&#x20;to&#x20;Compare">
+                                                <span>Add to Compare</span>
+                                            </a>
+                                                                            </div>
+                                                            </div>
+                        </div>
+                                    </div>
+            </div>
+                                </li><li class="product-item">            <div class="product-item-info">
+                <a href="http://custom.magento245.com/index.php/globus-women-6.html" class="product-item-photo">
+                    <span class="product-image-container product-image-container-7">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://custom.magento245.com/media/catalog/product/cache/7ddf3908877fd7ce716816090f3ca2d3/b/r/brand-4_1_1.jpg"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="Globus&#x20;Women"/></span>
+</span>
+<style>.product-image-container-7 {
+    width: 240px;
+}
+.product-image-container-7 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-7");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "240px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-7  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                </a>
+                <div class="product-item-details">
+                    <strong class="product-item-name">
+                        <a title="Globus Women"
+                           href="http://custom.magento245.com/index.php/globus-women-6.html"
+                           class="product-item-link">
+                            Globus Women                        </a>
+                    </strong>
+                                                                
+                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="7" data-price-box="product-id-7">
+    <span class="special-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Special Price</span>
+        <span  id="old-price-7-widget-product-carousel"                data-price-amount="2299"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$2,299.00</span></span>
+        </span>
+    </span>
+    <span class="old-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Regular Price</span>
+        <span  id="old-price-7-widget-product-carousel"                data-price-amount="2899"
+        data-price-type="oldPrice"
+        class="price-wrapper "
+    ><span class="price">$2,899.00</span></span>
+        </span>
+    </span>
+
+</div>
+                    
+                                            <div class="product-item-inner">
+                            <div class="product-item-actions">
+                                                                    <div class="actions-primary">
+                                                                                                                                <form data-role="tocart-form" data-product-sku="Globus Women-6" action="http://custom.magento245.com/index.php/checkout/cart/add/uenc/aHR0cDovL2N1c3RvbS5tYWdlbnRvMjQ1LmNvbS8%2C/product/7/" method="post">
+                                                <input type="hidden" name="product" value="7">
+                                                <input type="hidden" name="uenc" value="aHR0cDovL2N1c3RvbS5tYWdlbnRvMjQ1LmNvbS9pbmRleC5waHAvY2hlY2tvdXQvY2FydC9hZGQvdWVuYy9hSFIwY0RvdkwyTjFjM1J2YlM1dFlXZGxiblJ2TWpRMUxtTnZiUzglMkMvcHJvZHVjdC83Lw,,">
+                                                <input name="form_key" type="hidden" value="bNJc1UTvzDdsrfLr" />                                                <button type="submit"
+                                                        title="Add to Cart"
+                                                        class="action tocart primary">
+                                                    <span>Add to Cart</span>
+                                                </button>
+                                            </form>
+                                            <script type="text/x-magento-init">
+                                            {
+                                                "[data-role=tocart-form], .form.map.checkout": {
+                                                    "catalogAddToCart": {
+                                                        "product_sku": "Globus\u0020Women\u002D6"
+                                                    }
+                                                }
+                                            }
+                                            </script>
+                                                                            </div>
+                                                                                                    <div class="actions-secondary" data-role="add-to-links">
+                                                                                    <a href="#"
+                                               data-post='{"action":"http:\/\/custom.magento245.com\/index.php\/wishlist\/index\/add\/","data":{"product":7,"uenc":"aHR0cDovL2N1c3RvbS5tYWdlbnRvMjQ1LmNvbS8,"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                <span>Add to Wish List</span>
+                                            </a>
+                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/custom.magento245.com\/index.php\/catalog\/product_compare\/add\/","data":{"product":"7","uenc":"aHR0cDovL2N1c3RvbS5tYWdlbnRvMjQ1LmNvbS8,"}}' title="Add&#x20;to&#x20;Compare">
+                                                <span>Add to Compare</span>
+                                            </a>
+                                                                            </div>
+                                                            </div>
+                        </div>
+                                    </div>
+            </div>
+                                </li><li class="product-item">            <div class="product-item-info">
+                <a href="http://custom.magento245.com/index.php/globus-women-5.html" class="product-item-photo">
+                    <span class="product-image-container product-image-container-6">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://custom.magento245.com/media/catalog/product/cache/7ddf3908877fd7ce716816090f3ca2d3/b/r/brand-1_2_1.jpeg"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="Globus&#x20;Women"/></span>
+</span>
+<style>.product-image-container-6 {
+    width: 240px;
+}
+.product-image-container-6 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-6");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "240px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-6  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                </a>
+                <div class="product-item-details">
+                    <strong class="product-item-name">
+                        <a title="Globus Women"
+                           href="http://custom.magento245.com/index.php/globus-women-5.html"
+                           class="product-item-link">
+                            Globus Women                        </a>
+                    </strong>
+                                                                
+                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="6" data-price-box="product-id-6">
+    <span class="special-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Special Price</span>
+        <span  id="old-price-6-widget-product-carousel"                data-price-amount="2299"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$2,299.00</span></span>
+        </span>
+    </span>
+    <span class="old-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Regular Price</span>
+        <span  id="old-price-6-widget-product-carousel"                data-price-amount="2899"
+        data-price-type="oldPrice"
+        class="price-wrapper "
+    ><span class="price">$2,899.00</span></span>
+        </span>
+    </span>
+
+</div>
+                    
+                                            <div class="product-item-inner">
+                            <div class="product-item-actions">
+                                                                    <div class="actions-primary">
+                                                                                                                                <form data-role="tocart-form" data-product-sku="Globus Women-5" action="http://custom.magento245.com/index.php/checkout/cart/add/uenc/aHR0cDovL2N1c3RvbS5tYWdlbnRvMjQ1LmNvbS8%2C/product/6/" method="post">
+                                                <input type="hidden" name="product" value="6">
+                                                <input type="hidden" name="uenc" value="aHR0cDovL2N1c3RvbS5tYWdlbnRvMjQ1LmNvbS9pbmRleC5waHAvY2hlY2tvdXQvY2FydC9hZGQvdWVuYy9hSFIwY0RvdkwyTjFjM1J2YlM1dFlXZGxiblJ2TWpRMUxtTnZiUzglMkMvcHJvZHVjdC82Lw,,">
+                                                <input name="form_key" type="hidden" value="bNJc1UTvzDdsrfLr" />                                                <button type="submit"
+                                                        title="Add to Cart"
+                                                        class="action tocart primary">
+                                                    <span>Add to Cart</span>
+                                                </button>
+                                            </form>
+                                            <script type="text/x-magento-init">
+                                            {
+                                                "[data-role=tocart-form], .form.map.checkout": {
+                                                    "catalogAddToCart": {
+                                                        "product_sku": "Globus\u0020Women\u002D5"
+                                                    }
+                                                }
+                                            }
+                                            </script>
+                                                                            </div>
+                                                                                                    <div class="actions-secondary" data-role="add-to-links">
+                                                                                    <a href="#"
+                                               data-post='{"action":"http:\/\/custom.magento245.com\/index.php\/wishlist\/index\/add\/","data":{"product":6,"uenc":"aHR0cDovL2N1c3RvbS5tYWdlbnRvMjQ1LmNvbS8,"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                <span>Add to Wish List</span>
+                                            </a>
+                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/custom.magento245.com\/index.php\/catalog\/product_compare\/add\/","data":{"product":"6","uenc":"aHR0cDovL2N1c3RvbS5tYWdlbnRvMjQ1LmNvbS8,"}}' title="Add&#x20;to&#x20;Compare">
+                                                <span>Add to Compare</span>
+                                            </a>
+                                                                            </div>
+                                                            </div>
+                        </div>
+                                    </div>
+            </div>
+                                </li><li class="product-item">            <div class="product-item-info">
+                <a href="http://custom.magento245.com/index.php/globus-women-4.html" class="product-item-photo">
+                    <span class="product-image-container product-image-container-5">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://custom.magento245.com/media/catalog/product/cache/7ddf3908877fd7ce716816090f3ca2d3/b/r/brand-4_4.jpg"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="Globus&#x20;Women"/></span>
+</span>
+<style>.product-image-container-5 {
+    width: 240px;
+}
+.product-image-container-5 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-5");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "240px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-5  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                </a>
+                <div class="product-item-details">
+                    <strong class="product-item-name">
+                        <a title="Globus Women"
+                           href="http://custom.magento245.com/index.php/globus-women-4.html"
+                           class="product-item-link">
+                            Globus Women                        </a>
+                    </strong>
+                                                                
+                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="5" data-price-box="product-id-5">
+    <span class="special-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Special Price</span>
+        <span  id="old-price-5-widget-product-carousel"                data-price-amount="2299"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$2,299.00</span></span>
+        </span>
+    </span>
+    <span class="old-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Regular Price</span>
+        <span  id="old-price-5-widget-product-carousel"                data-price-amount="2899"
+        data-price-type="oldPrice"
+        class="price-wrapper "
+    ><span class="price">$2,899.00</span></span>
+        </span>
+    </span>
+
+</div>
+                    
+                                            <div class="product-item-inner">
+                            <div class="product-item-actions">
+                                                                    <div class="actions-primary">
+                                                                                                                                <form data-role="tocart-form" data-product-sku="Globus Women-4" action="http://custom.magento245.com/index.php/checkout/cart/add/uenc/aHR0cDovL2N1c3RvbS5tYWdlbnRvMjQ1LmNvbS8%2C/product/5/" method="post">
+                                                <input type="hidden" name="product" value="5">
+                                                <input type="hidden" name="uenc" value="aHR0cDovL2N1c3RvbS5tYWdlbnRvMjQ1LmNvbS9pbmRleC5waHAvY2hlY2tvdXQvY2FydC9hZGQvdWVuYy9hSFIwY0RvdkwyTjFjM1J2YlM1dFlXZGxiblJ2TWpRMUxtTnZiUzglMkMvcHJvZHVjdC81Lw,,">
+                                                <input name="form_key" type="hidden" value="bNJc1UTvzDdsrfLr" />                                                <button type="submit"
+                                                        title="Add to Cart"
+                                                        class="action tocart primary">
+                                                    <span>Add to Cart</span>
+                                                </button>
+                                            </form>
+                                            <script type="text/x-magento-init">
+                                            {
+                                                "[data-role=tocart-form], .form.map.checkout": {
+                                                    "catalogAddToCart": {
+                                                        "product_sku": "Globus\u0020Women\u002D4"
+                                                    }
+                                                }
+                                            }
+                                            </script>
+                                                                            </div>
+                                                                                                    <div class="actions-secondary" data-role="add-to-links">
+                                                                                    <a href="#"
+                                               data-post='{"action":"http:\/\/custom.magento245.com\/index.php\/wishlist\/index\/add\/","data":{"product":5,"uenc":"aHR0cDovL2N1c3RvbS5tYWdlbnRvMjQ1LmNvbS8,"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                <span>Add to Wish List</span>
+                                            </a>
+                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/custom.magento245.com\/index.php\/catalog\/product_compare\/add\/","data":{"product":"5","uenc":"aHR0cDovL2N1c3RvbS5tYWdlbnRvMjQ1LmNvbS8,"}}' title="Add&#x20;to&#x20;Compare">
+                                                <span>Add to Compare</span>
+                                            </a>
+                                                                            </div>
+                                                            </div>
+                        </div>
+                                    </div>
+            </div>
+                                </li><li class="product-item">            <div class="product-item-info">
+                <a href="http://custom.magento245.com/index.php/globus-women-3.html" class="product-item-photo">
+                    <span class="product-image-container product-image-container-4">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://custom.magento245.com/media/catalog/product/cache/7ddf3908877fd7ce716816090f3ca2d3/b/r/brand-4_3.jpg"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="Globus&#x20;Women"/></span>
+</span>
+<style>.product-image-container-4 {
+    width: 240px;
+}
+.product-image-container-4 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-4");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "240px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-4  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                </a>
+                <div class="product-item-details">
+                    <strong class="product-item-name">
+                        <a title="Globus Women"
+                           href="http://custom.magento245.com/index.php/globus-women-3.html"
+                           class="product-item-link">
+                            Globus Women                        </a>
+                    </strong>
+                                                                
+                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="4" data-price-box="product-id-4">
+    <span class="special-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Special Price</span>
+        <span  id="old-price-4-widget-product-carousel"                data-price-amount="2299"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$2,299.00</span></span>
+        </span>
+    </span>
+    <span class="old-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Regular Price</span>
+        <span  id="old-price-4-widget-product-carousel"                data-price-amount="2899"
+        data-price-type="oldPrice"
+        class="price-wrapper "
+    ><span class="price">$2,899.00</span></span>
+        </span>
+    </span>
+
+</div>
+                    
+                                            <div class="product-item-inner">
+                            <div class="product-item-actions">
+                                                                    <div class="actions-primary">
+                                                                                                                                <form data-role="tocart-form" data-product-sku="Globus Women-3" action="http://custom.magento245.com/index.php/checkout/cart/add/uenc/aHR0cDovL2N1c3RvbS5tYWdlbnRvMjQ1LmNvbS8%2C/product/4/" method="post">
+                                                <input type="hidden" name="product" value="4">
+                                                <input type="hidden" name="uenc" value="aHR0cDovL2N1c3RvbS5tYWdlbnRvMjQ1LmNvbS9pbmRleC5waHAvY2hlY2tvdXQvY2FydC9hZGQvdWVuYy9hSFIwY0RvdkwyTjFjM1J2YlM1dFlXZGxiblJ2TWpRMUxtTnZiUzglMkMvcHJvZHVjdC80Lw,,">
+                                                <input name="form_key" type="hidden" value="bNJc1UTvzDdsrfLr" />                                                <button type="submit"
+                                                        title="Add to Cart"
+                                                        class="action tocart primary">
+                                                    <span>Add to Cart</span>
+                                                </button>
+                                            </form>
+                                            <script type="text/x-magento-init">
+                                            {
+                                                "[data-role=tocart-form], .form.map.checkout": {
+                                                    "catalogAddToCart": {
+                                                        "product_sku": "Globus\u0020Women\u002D3"
+                                                    }
+                                                }
+                                            }
+                                            </script>
+                                                                            </div>
+                                                                                                    <div class="actions-secondary" data-role="add-to-links">
+                                                                                    <a href="#"
+                                               data-post='{"action":"http:\/\/custom.magento245.com\/index.php\/wishlist\/index\/add\/","data":{"product":4,"uenc":"aHR0cDovL2N1c3RvbS5tYWdlbnRvMjQ1LmNvbS8,"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                <span>Add to Wish List</span>
+                                            </a>
+                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/custom.magento245.com\/index.php\/catalog\/product_compare\/add\/","data":{"product":"4","uenc":"aHR0cDovL2N1c3RvbS5tYWdlbnRvMjQ1LmNvbS8,"}}' title="Add&#x20;to&#x20;Compare">
+                                                <span>Add to Compare</span>
+                                            </a>
+                                                                            </div>
+                                                            </div>
+                        </div>
+                                    </div>
+            </div>
+                                </li><li class="product-item">            <div class="product-item-info">
+                <a href="http://custom.magento245.com/index.php/globus-women-2.html" class="product-item-photo">
+                    <span class="product-image-container product-image-container-3">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://custom.magento245.com/media/catalog/product/cache/7ddf3908877fd7ce716816090f3ca2d3/b/r/brand-4_2.jpg"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="Globus&#x20;Women"/></span>
+</span>
+<style>.product-image-container-3 {
+    width: 240px;
+}
+.product-image-container-3 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-3");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "240px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-3  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                </a>
+                <div class="product-item-details">
+                    <strong class="product-item-name">
+                        <a title="Globus Women"
+                           href="http://custom.magento245.com/index.php/globus-women-2.html"
+                           class="product-item-link">
+                            Globus Women                        </a>
+                    </strong>
+                                                                
+                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="3" data-price-box="product-id-3">
+    <span class="special-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Special Price</span>
+        <span  id="old-price-3-widget-product-carousel"                data-price-amount="2299"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$2,299.00</span></span>
+        </span>
+    </span>
+    <span class="old-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Regular Price</span>
+        <span  id="old-price-3-widget-product-carousel"                data-price-amount="2899"
+        data-price-type="oldPrice"
+        class="price-wrapper "
+    ><span class="price">$2,899.00</span></span>
+        </span>
+    </span>
+
+</div>
+                    
+                                            <div class="product-item-inner">
+                            <div class="product-item-actions">
+                                                                    <div class="actions-primary">
+                                                                                                                                <form data-role="tocart-form" data-product-sku="Globus Women-2" action="http://custom.magento245.com/index.php/checkout/cart/add/uenc/aHR0cDovL2N1c3RvbS5tYWdlbnRvMjQ1LmNvbS8%2C/product/3/" method="post">
+                                                <input type="hidden" name="product" value="3">
+                                                <input type="hidden" name="uenc" value="aHR0cDovL2N1c3RvbS5tYWdlbnRvMjQ1LmNvbS9pbmRleC5waHAvY2hlY2tvdXQvY2FydC9hZGQvdWVuYy9hSFIwY0RvdkwyTjFjM1J2YlM1dFlXZGxiblJ2TWpRMUxtTnZiUzglMkMvcHJvZHVjdC8zLw,,">
+                                                <input name="form_key" type="hidden" value="bNJc1UTvzDdsrfLr" />                                                <button type="submit"
+                                                        title="Add to Cart"
+                                                        class="action tocart primary">
+                                                    <span>Add to Cart</span>
+                                                </button>
+                                            </form>
+                                            <script type="text/x-magento-init">
+                                            {
+                                                "[data-role=tocart-form], .form.map.checkout": {
+                                                    "catalogAddToCart": {
+                                                        "product_sku": "Globus\u0020Women\u002D2"
+                                                    }
+                                                }
+                                            }
+                                            </script>
+                                                                            </div>
+                                                                                                    <div class="actions-secondary" data-role="add-to-links">
+                                                                                    <a href="#"
+                                               data-post='{"action":"http:\/\/custom.magento245.com\/index.php\/wishlist\/index\/add\/","data":{"product":3,"uenc":"aHR0cDovL2N1c3RvbS5tYWdlbnRvMjQ1LmNvbS8,"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                <span>Add to Wish List</span>
+                                            </a>
+                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/custom.magento245.com\/index.php\/catalog\/product_compare\/add\/","data":{"product":"3","uenc":"aHR0cDovL2N1c3RvbS5tYWdlbnRvMjQ1LmNvbS8,"}}' title="Add&#x20;to&#x20;Compare">
+                                                <span>Add to Compare</span>
+                                            </a>
+                                                                            </div>
+                                                            </div>
+                        </div>
+                                    </div>
+            </div>
+                                </li><li class="product-item">            <div class="product-item-info">
+                <a href="http://custom.magento245.com/index.php/globus-women-1.html" class="product-item-photo">
+                    <span class="product-image-container product-image-container-2">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://custom.magento245.com/media/catalog/product/cache/7ddf3908877fd7ce716816090f3ca2d3/b/r/brand-4_1.jpg"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="Globus&#x20;Women"/></span>
+</span>
+<style>.product-image-container-2 {
+    width: 240px;
+}
+.product-image-container-2 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-2");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "240px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-2  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                </a>
+                <div class="product-item-details">
+                    <strong class="product-item-name">
+                        <a title="Globus Women"
+                           href="http://custom.magento245.com/index.php/globus-women-1.html"
+                           class="product-item-link">
+                            Globus Women                        </a>
+                    </strong>
+                                                                
+                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="2" data-price-box="product-id-2">
+    <span class="special-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Special Price</span>
+        <span  id="old-price-2-widget-product-carousel"                data-price-amount="2299"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$2,299.00</span></span>
+        </span>
+    </span>
+    <span class="old-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Regular Price</span>
+        <span  id="old-price-2-widget-product-carousel"                data-price-amount="2899"
+        data-price-type="oldPrice"
+        class="price-wrapper "
+    ><span class="price">$2,899.00</span></span>
+        </span>
+    </span>
+
+</div>
+                    
+                                            <div class="product-item-inner">
+                            <div class="product-item-actions">
+                                                                    <div class="actions-primary">
+                                                                                                                                <form data-role="tocart-form" data-product-sku="Globus Women-1" action="http://custom.magento245.com/index.php/checkout/cart/add/uenc/aHR0cDovL2N1c3RvbS5tYWdlbnRvMjQ1LmNvbS8%2C/product/2/" method="post">
+                                                <input type="hidden" name="product" value="2">
+                                                <input type="hidden" name="uenc" value="aHR0cDovL2N1c3RvbS5tYWdlbnRvMjQ1LmNvbS9pbmRleC5waHAvY2hlY2tvdXQvY2FydC9hZGQvdWVuYy9hSFIwY0RvdkwyTjFjM1J2YlM1dFlXZGxiblJ2TWpRMUxtTnZiUzglMkMvcHJvZHVjdC8yLw,,">
+                                                <input name="form_key" type="hidden" value="bNJc1UTvzDdsrfLr" />                                                <button type="submit"
+                                                        title="Add to Cart"
+                                                        class="action tocart primary">
+                                                    <span>Add to Cart</span>
+                                                </button>
+                                            </form>
+                                            <script type="text/x-magento-init">
+                                            {
+                                                "[data-role=tocart-form], .form.map.checkout": {
+                                                    "catalogAddToCart": {
+                                                        "product_sku": "Globus\u0020Women\u002D1"
+                                                    }
+                                                }
+                                            }
+                                            </script>
+                                                                            </div>
+                                                                                                    <div class="actions-secondary" data-role="add-to-links">
+                                                                                    <a href="#"
+                                               data-post='{"action":"http:\/\/custom.magento245.com\/index.php\/wishlist\/index\/add\/","data":{"product":2,"uenc":"aHR0cDovL2N1c3RvbS5tYWdlbnRvMjQ1LmNvbS8,"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                <span>Add to Wish List</span>
+                                            </a>
+                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/custom.magento245.com\/index.php\/catalog\/product_compare\/add\/","data":{"product":"2","uenc":"aHR0cDovL2N1c3RvbS5tYWdlbnRvMjQ1LmNvbS8,"}}' title="Add&#x20;to&#x20;Compare">
+                                                <span>Add to Compare</span>
+                                            </a>
+                                                                            </div>
+                                                            </div>
+                        </div>
+                                    </div>
+            </div>
+                                </li><li class="product-item">            <div class="product-item-info">
+                <a href="http://custom.magento245.com/index.php/globus-women.html" class="product-item-photo">
+                    <span class="product-image-container product-image-container-1">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://custom.magento245.com/media/catalog/product/cache/7ddf3908877fd7ce716816090f3ca2d3/b/r/brand-4.jpg"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="Globus&#x20;Women"/></span>
+</span>
+<style>.product-image-container-1 {
+    width: 240px;
+}
+.product-image-container-1 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-1");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "240px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-1  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                </a>
+                <div class="product-item-details">
+                    <strong class="product-item-name">
+                        <a title="Globus Women"
+                           href="http://custom.magento245.com/index.php/globus-women.html"
+                           class="product-item-link">
+                            Globus Women                        </a>
+                    </strong>
+                                                                
+                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="1" data-price-box="product-id-1">
+    <span class="special-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Special Price</span>
+        <span  id="old-price-1-widget-product-carousel"                data-price-amount="2299"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$2,299.00</span></span>
+        </span>
+    </span>
+    <span class="old-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Regular Price</span>
+        <span  id="old-price-1-widget-product-carousel"                data-price-amount="2899"
+        data-price-type="oldPrice"
+        class="price-wrapper "
+    ><span class="price">$2,899.00</span></span>
+        </span>
+    </span>
+
+</div>
+                    
+                                            <div class="product-item-inner">
+                            <div class="product-item-actions">
+                                                                    <div class="actions-primary">
+                                                                                                                                <form data-role="tocart-form" data-product-sku="Globus Women" action="http://custom.magento245.com/index.php/checkout/cart/add/uenc/aHR0cDovL2N1c3RvbS5tYWdlbnRvMjQ1LmNvbS8%2C/product/1/" method="post">
+                                                <input type="hidden" name="product" value="1">
+                                                <input type="hidden" name="uenc" value="aHR0cDovL2N1c3RvbS5tYWdlbnRvMjQ1LmNvbS9pbmRleC5waHAvY2hlY2tvdXQvY2FydC9hZGQvdWVuYy9hSFIwY0RvdkwyTjFjM1J2YlM1dFlXZGxiblJ2TWpRMUxtTnZiUzglMkMvcHJvZHVjdC8xLw,,">
+                                                <input name="form_key" type="hidden" value="bNJc1UTvzDdsrfLr" />                                                <button type="submit"
+                                                        title="Add to Cart"
+                                                        class="action tocart primary">
+                                                    <span>Add to Cart</span>
+                                                </button>
+                                            </form>
+                                            <script type="text/x-magento-init">
+                                            {
+                                                "[data-role=tocart-form], .form.map.checkout": {
+                                                    "catalogAddToCart": {
+                                                        "product_sku": "Globus\u0020Women"
+                                                    }
+                                                }
+                                            }
+                                            </script>
+                                                                            </div>
+                                                                                                    <div class="actions-secondary" data-role="add-to-links">
+                                                                                    <a href="#"
+                                               data-post='{"action":"http:\/\/custom.magento245.com\/index.php\/wishlist\/index\/add\/","data":{"product":1,"uenc":"aHR0cDovL2N1c3RvbS5tYWdlbnRvMjQ1LmNvbS8,"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                <span>Add to Wish List</span>
+                                            </a>
+                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/custom.magento245.com\/index.php\/catalog\/product_compare\/add\/","data":{"product":"1","uenc":"aHR0cDovL2N1c3RvbS5tYWdlbnRvMjQ1LmNvbS8,"}}' title="Add&#x20;to&#x20;Compare">
+                                                <span>Add to Compare</span>
+                                            </a>
+                                                                            </div>
+                                                            </div>
+                        </div>
+                                    </div>
+            </div>
+            </li>            </ol>

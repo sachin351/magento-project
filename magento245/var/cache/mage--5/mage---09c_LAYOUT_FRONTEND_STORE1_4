@@ -1,4 +1,4 @@
-a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1695724412;s:6:"expire";i:1727260412;s:4:"tags";s:37:"09c_LAYOUT_GENERAL_CACHE_TAG,09c_MAGE";}
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1695839493;s:6:"expire";i:1727375493;s:4:"tags";s:37:"09c_LAYOUT_GENERAL_CACHE_TAG,09c_MAGE";}
 <?xml version="1.0"?>
 <layouts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><handle id="catalog_category_view"><body/>
 </handle><handle id="catalogsearch_advanced_index"><body/>
@@ -7127,6 +7127,19 @@ a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1695724412;s:6:"expire";i:1727260412;s:4:"t
    </referenceBlock>
    <move element="page.main.title" destination="content.top" before="-"/>
 </body>
+</handle><handle id="default"><body>
+   <referenceBlock name="logo">
+      <arguments>
+         <argument name="logo_width" xsi:type="number">170</argument>
+      </arguments>
+   </referenceBlock>
+</body>
+</handle><handle id="default_head_blocks"><head>
+   <css src="css/styles-m.css"/>
+   <css src="css/styles-l.css" media="screen and (min-width: 768px)"/>
+   <css src="css/print.css" media="print"/>
+   <meta name="format-detection" content="telephone=no"/>
+</head>
 </handle><layout id="1column"><update handle="empty"/>
 <referenceContainer name="page.wrapper">
    <container name="header.container" as="header_container" label="Page Header Container" htmlTag="header" htmlClass="page-header" before="main.content"/>
